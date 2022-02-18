@@ -13,7 +13,6 @@
 This project was developed with the following technologies:
 
 - [Eslint](https://eslint.org/)
-- [Husky](https://github.com/typicode/husky)
 - [Jest](https://jestjs.io/)
 - [React](https://reactjs.org/)
 - [Prettier](https://prettier.io/)
