@@ -25,7 +25,7 @@ This project was developed with the following technologies:
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.22.17](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
-$ git clone https://bitbucket.org/dasa_desenv/boilerplate-vite-react.git my-app
+$ git clone https://github.com/caioorg/boilerplate-vite-react.git my-app
 
 # Go into the repository and install dependencies
 $ cd my-app && yarn
